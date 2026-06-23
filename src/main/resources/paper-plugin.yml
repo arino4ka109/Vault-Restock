@@ -1,0 +1,9 @@
+name: RestockStorage
+version: '2.2'
+main: com.example.restockstorage.RestockStorage
+api-version: '1.21'
+description: Перезарядка хранилищ испытаний
+authors: [arino4ka110]
+permissions:
+  restockstorage.admin:
+    default: op
